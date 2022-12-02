@@ -1,0 +1,40 @@
+React.Fragment{
+    background-image: url(./FE.jpg) !important;
+    background-size: contain !important;
+    background: no-repeat;
+    width: 100% !important;
+    height: 100% !important;
+}
+section
+{
+display: flex !important;
+width: 100% !important;
+height: 100% !important;
+
+    
+}
+section img
+{
+width: 50% !important;
+height: 70% !important;
+}   
+
+h1{
+    max-width: 25%;
+    color: bisque !important;
+    size: 1.5rem;
+    background-color: brown; 
+    background-size: auto;   
+    padding-left: 5%;
+    text-align: justify;
+
+}
+h3
+{
+max-width: 750px !important;
+background-color: rgb(165, 199, 199) !important;
+color: rgb(53, 51, 190) !important;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif !important;
+margin-left: 35% !important;
+text-align: center !important;
+}
